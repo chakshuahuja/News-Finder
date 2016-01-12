@@ -1,0 +1,6 @@
+#SourceDiv a:link {text-decoration:none;}
+#SourceDiv a:visited {text-decoration:none;}
+#SourceDiv a:hover {text-decoration:underline;}
+#SourceDiv a:active {text-decoration:underline;}
+
+#mainDiv {background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(224,243,250,1)), color-stop(50%,rgba(216,240,252,1)), color-stop(61%,rgba(184,226,246,1)), color-stop(100%,rgba(182,223,253,1)));}
